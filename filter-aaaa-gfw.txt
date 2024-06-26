@@ -1625,7 +1625,6 @@
 ||etsy.com^$dnstype=AAAA
 ||ettoday.net^$dnstype=AAAA
 ||etvonline.hk^$dnstype=AAAA
-||eu.org^$dnstype=AAAA
 ||eucasino.com^$dnstype=AAAA
 ||eulam.com^$dnstype=AAAA
 ||eurekavpt.com^$dnstype=AAAA

@@ -1,3 +1,10 @@
+# copilot
+||bing.com^$dnstype=AAAA
+||bingapis.com^$dnstype=AAAA
+||edge.microsoft.com^$dnstype=AAAA
+||delivery.mp.microsoft.com^$dnstype=AAAA
+||azurewebsites.net^$dnstype=AAAA
+# gfw
 ||000webhost.com^$dnstype=AAAA
 ||030buy.com^$dnstype=AAAA
 ||0rz.tw^$dnstype=AAAA

@@ -1,4 +1,3 @@
-##
 # copilot
 ||bing.com^$dnstype=AAAA
 ||bingapis.com^$dnstype=AAAA
@@ -300,6 +299,7 @@
 ||anpopo.com^$dnstype=AAAA
 ||answering-islam.org^$dnstype=AAAA
 ||anthonycalzadilla.com^$dnstype=AAAA
+||anthropic.com^$dnstype=AAAA
 ||anti1984.com^$dnstype=AAAA
 ||antichristendom.com^$dnstype=AAAA
 ||antiwave.net^$dnstype=AAAA
@@ -435,6 +435,7 @@
 ||axureformac.com^$dnstype=AAAA
 ||azerbaycan.tv^$dnstype=AAAA
 ||azerimix.com^$dnstype=AAAA
+||azirevpn.com^$dnstype=AAAA
 ||azubu.tv^$dnstype=AAAA
 ||azurewebsites.net^$dnstype=AAAA
 ||b-ok.cc^$dnstype=AAAA
@@ -719,6 +720,7 @@
 ||blubrry.com^$dnstype=AAAA
 ||blueangellive.com^$dnstype=AAAA
 ||bmfinn.com^$dnstype=AAAA
+||bnbstatic.com^$dnstype=AAAA
 ||bnews.co^$dnstype=AAAA
 ||bnext.com.tw^$dnstype=AAAA
 ||bnn.co^$dnstype=AAAA
@@ -1083,6 +1085,7 @@
 ||cl.d0z.net^$dnstype=AAAA
 ||clarionproject.org^$dnstype=AAAA
 ||classicalguitarblog.net^$dnstype=AAAA
+||claude.ai^$dnstype=AAAA
 ||clb.org.hk^$dnstype=AAAA
 ||cldr.unicode.org^$dnstype=AAAA
 ||cleansite.biz^$dnstype=AAAA
@@ -1103,6 +1106,7 @@
 ||clubhouseapi.com^$dnstype=AAAA
 ||clyp.it^$dnstype=AAAA
 ||cmcn.org^$dnstype=AAAA
+||cmegroup.com^$dnstype=AAAA
 ||cmi.org.tw^$dnstype=AAAA
 ||cmp.hku.hk^$dnstype=AAAA
 ||cms.gov^$dnstype=AAAA
@@ -1273,7 +1277,6 @@
 ||dalailama.com^$dnstype=AAAA
 ||dalailama.mn^$dnstype=AAAA
 ||dalailama.ru^$dnstype=AAAA
-||dalailama.usc.edu^$dnstype=AAAA
 ||dalailama80.org^$dnstype=AAAA
 ||dalailamacenter.org^$dnstype=AAAA
 ||dalailamafellows.org^$dnstype=AAAA
@@ -1633,6 +1636,7 @@
 ||etsy.com^$dnstype=AAAA
 ||ettoday.net^$dnstype=AAAA
 ||etvonline.hk^$dnstype=AAAA
+||eu.org^$dnstype=AAAA
 ||eucasino.com^$dnstype=AAAA
 ||eulam.com^$dnstype=AAAA
 ||eurekavpt.com^$dnstype=AAAA
@@ -2800,6 +2804,7 @@
 ||imageab.com^$dnstype=AAAA
 ||imagefap.com^$dnstype=AAAA
 ||imageflea.com^$dnstype=AAAA
+||imageglass.org^$dnstype=AAAA
 ||images-gaytube.com^$dnstype=AAAA
 ||images.comico.tw^$dnstype=AAAA
 ||imageshack.us^$dnstype=AAAA
@@ -2918,6 +2923,7 @@
 ||ivacy.com^$dnstype=AAAA
 ||iverycd.com^$dnstype=AAAA
 ||ivpn.net^$dnstype=AAAA
+||iwara.tv^$dnstype=AAAA
 ||ixquick.com^$dnstype=AAAA
 ||ixxx.com^$dnstype=AAAA
 ||iyouport.com^$dnstype=AAAA
@@ -4035,6 +4041,7 @@
 ||perfect-privacy.com^$dnstype=AAAA
 ||perfectgirls.net^$dnstype=AAAA
 ||periscope.tv^$dnstype=AAAA
+||perplexity.ai^$dnstype=AAAA
 ||persecutionblog.com^$dnstype=AAAA
 ||persiankitty.com^$dnstype=AAAA
 ||phapluan.org^$dnstype=AAAA
@@ -4795,6 +4802,7 @@
 ||store.steampowered.com^$dnstype=AAAA
 ||stories.google^$dnstype=AAAA
 ||storify.com^$dnstype=AAAA
+||storj.io^$dnstype=AAAA
 ||storm.mg^$dnstype=AAAA
 ||stormmediagroup.com^$dnstype=AAAA
 ||stoweboyd.com^$dnstype=AAAA
@@ -5129,6 +5137,7 @@
 ||tibetswiss.ch^$dnstype=AAAA
 ||tibettelegraph.com^$dnstype=AAAA
 ||tibettimes.net^$dnstype=AAAA
+||tibettruth.com^$dnstype=AAAA
 ||tibetwrites.org^$dnstype=AAAA
 ||ticket.com.tw^$dnstype=AAAA
 ||tigervpn.com^$dnstype=AAAA
@@ -5477,6 +5486,7 @@
 ||us.to^$dnstype=AAAA
 ||usacn.com^$dnstype=AAAA
 ||usaip.eu^$dnstype=AAAA
+||uscardforum.com^$dnstype=AAAA
 ||uscnpm.org^$dnstype=AAAA
 ||userapi.nytlog.com^$dnstype=AAAA
 ||users.skynet.be^$dnstype=AAAA

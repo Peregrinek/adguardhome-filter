@@ -1,3 +1,4 @@
+##
 # copilot
 ||bing.com^$dnstype=AAAA
 ||bingapis.com^$dnstype=AAAA

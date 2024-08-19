@@ -7,6 +7,7 @@
 # apple
 ||apple.com^$dnstype=AAAA
 ||apple-dns.net^$dnstype=AAAA
+||aaplimg.com^$dnstype=AAAA
 # gfw
 ||000webhost.com^$dnstype=AAAA
 ||030buy.com^$dnstype=AAAA

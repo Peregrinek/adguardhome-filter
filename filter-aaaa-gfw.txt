@@ -5,25 +5,13 @@
 ||delivery.mp.microsoft.com^$dnstype=AAAA
 ||azurewebsites.net^$dnstype=AAAA
 # apple music
-||music.apple.com^$dnstype=AAAA
-||fpinit.itunes.apple.com^$dnstype=AAAA
-||itunes.apple.com.edgekey.net^$dnstype=AAAA
-||librarydaap.itunes.apple.com^$dnstype=AAAA
-||musicstatus.itunes.apple.com^$dnstype=AAAA
-||pd.itunes.apple.com^$dnstype=AAAA
-||s.mzstatic.com^$dnstype=AAAA
-||se2.itunes.apple.com^$dnstype=AAAA
-||upp.itunes.apple.com^$dnstype=AAAA
-||cdn.smoot.apple.com^$dnstype=AAAA
-||cdn.smoot.g.aaplimg.com^$dnstype=AAAA
-||gateway.fe2.apple-dns.net^$dnstype=AAAA
-||cma.itunes.apple.com^$dnstype=AAAA
-||doh.dns.apple.com^$dnstype=AAAA
-||entitlements.itunes.apple.com^$dnstype=AAAA
-||itunes-cdn.itunes-apple.com.akadns.net^$dnstype=AAAA
-||swscan.apple.com^$dnstype=AAAA
-||radio-activity.itunes.apple.com^$dnstype=AAAA
-||streamingaudio.itunes.apple.com^$dnstype=AAAA
+||apple.com^$dnstype=AAAA
+||apple-dns.net^$dnstype=AAAA
+||aaplimg.com^$dnstype=AAAA
+||apple.com.edgekey.net^$dnstype=AAAA
+||mzstatic.com^$dnstype=AAAA
+||itunes-apple.com.akadns.net^$dnstype=AAAA
+||idsce9.akamaiedge.net^$dnstype=AAAA
 # gfw
 ||000webhost.com^$dnstype=AAAA
 ||030buy.com^$dnstype=AAAA

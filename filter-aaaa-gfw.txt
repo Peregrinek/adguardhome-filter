@@ -4,10 +4,7 @@
 ||edge.microsoft.com^$dnstype=AAAA
 ||delivery.mp.microsoft.com^$dnstype=AAAA
 ||azurewebsites.net^$dnstype=AAAA
-# apple
-||apple.com^$dnstype=AAAA
-||apple-dns.net^$dnstype=AAAA
-||aaplimg.com^$dnstype=AAAA
+# apple music
 ||music.apple.com^$dnstype=AAAA
 ||fpinit.itunes.apple.com^$dnstype=AAAA
 ||itunes.apple.com.edgekey.net^$dnstype=AAAA

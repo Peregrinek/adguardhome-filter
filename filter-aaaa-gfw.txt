@@ -12,6 +12,7 @@
 ||mzstatic.com^$dnstype=AAAA
 ||itunes-apple.com.akadns.net^$dnstype=AAAA
 ||idsce9.akamaiedge.net^$dnstype=AAAA
+||icloud.com^$dnstype=AAAA
 # gfw
 ||000webhost.com^$dnstype=AAAA
 ||030buy.com^$dnstype=AAAA

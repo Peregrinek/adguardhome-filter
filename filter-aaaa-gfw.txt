@@ -5,14 +5,14 @@
 ||delivery.mp.microsoft.com^$dnstype=AAAA
 ||azurewebsites.net^$dnstype=AAAA
 # apple music
-#||apple.com^$dnstype=AAAA
-#||apple-dns.net^$dnstype=AAAA
-#||aaplimg.com^$dnstype=AAAA
-#||apple.com.edgekey.net^$dnstype=AAAA
-#||mzstatic.com^$dnstype=AAAA
-#||itunes-apple.com.akadns.net^$dnstype=AAAA
-#||idsce9.akamaiedge.net^$dnstype=AAAA
-#||icloud.com^$dnstype=AAAA
+||dsce9.akamaiedge.net^$dnstype=AAAA
+||itunes.apple.com^$dnstype=AAAA
+||ls.apple.com^$dnstype=AAAA
+||ocsp2.apple.com^$dnstype=AAAA
+||mzstatic.com^$dnstype=AAAA
+||weatherkit.apple.com^$dnstype=AAAA
+||icloud.com^$dnstype=AAAA
+||gateway.fe2.apple-dns.net^$dnstype=AAAA
 # gfw
 ||000webhost.com^$dnstype=AAAA
 ||030buy.com^$dnstype=AAAA

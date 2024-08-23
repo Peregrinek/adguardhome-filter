@@ -12,6 +12,12 @@
 ||weatherkit.apple.com^$dnstype=AAAA
 ||icloud.com^$dnstype=AAAA
 ||gateway.fe2.apple-dns.net^$dnstype=AAAA
+# apple news
+||apple.news^$dnstype=AAAA
+||news-app-events.apple.com^$dnstype=AAAA
+||news-edge.apple.com^$dnstype=AAAA
+||news-events.apple.com^$dnstype=AAAA
+||news-sports-events.apple.com^$dnstype=AAAA
 # apple cdn
 ||apple.com.akadns.net^$dnstype=AAAA
 ||dsce9.akamaiedge.net^$dnstype=AAAA

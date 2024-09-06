@@ -4,25 +4,18 @@
 ||edge.microsoft.com^$dnstype=AAAA
 ||delivery.mp.microsoft.com^$dnstype=AAAA
 ||azurewebsites.net^$dnstype=AAAA
-# apple music
-||itunes.apple.com^$dnstype=AAAA
-||ls.apple.com^$dnstype=AAAA
-||ocsp2.apple.com^$dnstype=AAAA
+# apple
+||apple.com^$dnstype=AAAA
+||apple-dns.net^$dnstype=AAAA
 ||mzstatic.com^$dnstype=AAAA
-||weatherkit.apple.com^$dnstype=AAAA
 ||icloud.com^$dnstype=AAAA
-||gateway.fe2.apple-dns.net^$dnstype=AAAA
-# apple news
-||apple.news^$dnstype=AAAA
-||news-app-events.apple.com^$dnstype=AAAA
-||news-edge.apple.com^$dnstype=AAAA
-||news-events.apple.com^$dnstype=AAAA
-||news-sports-events.apple.com^$dnstype=AAAA
-||news-todayconfig-edge.apple.com^$dnstype=AAAA
+||apple-finance.query.yahoo.com^$dnstype=AAAA
 # apple cdn
 ||apple.com.akadns.net^$dnstype=AAAA
 ||dsce9.akamaiedge.net^$dnstype=AAAA
 ||dscw27.akamai.net^$dnstype=AAAA
+||apple.com.edgekey.net^$dnstype=AAAA
+||apple.map.fastly.net^$dnstype=AAAA
 # gfw
 ||000webhost.com^$dnstype=AAAA
 ||030buy.com^$dnstype=AAAA

@@ -18,6 +18,7 @@
 ||dscw27.akamai.net^$dnstype=AAAA
 ||apple.com.edgekey.net^$dnstype=AAAA
 ||apple.map.fastly.net^$dnstype=AAAA
+||dscapi9.akamai.net^$dnstype=AAAA
 # gfw
 ||000webhost.com^$dnstype=AAAA
 ||030buy.com^$dnstype=AAAA

@@ -20,6 +20,8 @@
 ||apple.map.fastly.net^$dnstype=AAAA
 ||dscapi9.akamai.net^$dnstype=AAAA
 # gfw
+||fast.com^$dnstype=AAAA
+||nflxvideo.com^$dnstype=AAAA
 ||000webhost.com^$dnstype=AAAA
 ||030buy.com^$dnstype=AAAA
 ||0rz.tw^$dnstype=AAAA

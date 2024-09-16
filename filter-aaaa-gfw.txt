@@ -16,6 +16,7 @@
 ||apple-finance.query.yahoo.com^$dnstype=AAAA
 # apple cdn
 ||apple.com.akadns.net^$dnstype=AAAA
+||push-apple.com.akadns.net^$dnstype=AAAA
 ||apple.com.edgekey.net^$dnstype=AAAA
 ||apple.map.fastly.net^$dnstype=AAAA
 ||dscw27.akamai.net^$dnstype=AAAA

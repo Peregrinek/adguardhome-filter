@@ -25,6 +25,11 @@
 ||dsce9.akamaiedge.net^$dnstype=AAAA
 ||d.akamaiedge.net^$dnstype=AAAA
 ||dscb.akamaiedge.net^$dnstype=AAAA
+# spotify
+||spotify.com^$dnstype=AAAA
+||spotifycdn.com^$dnstype=AAAA
+||scdn.co^$dnstype=AAAA
+||spotify.map.fastly.net^$dnstype=AAAA
 # gfw
 ||fast.com^$dnstype=AAAA
 ||nflxvideo.com^$dnstype=AAAA

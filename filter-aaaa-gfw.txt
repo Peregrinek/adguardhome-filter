@@ -30,6 +30,7 @@
 ||spotifycdn.com^$dnstype=AAAA
 ||scdn.co^$dnstype=AAAA
 ||spotify.map.fastly.net^$dnstype=AAAA
+||spotifycdn.map.fastly.net^$dnstype=AAAA
 # gfw
 ||fast.com^$dnstype=AAAA
 ||nflxvideo.com^$dnstype=AAAA

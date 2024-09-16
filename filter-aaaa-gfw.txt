@@ -21,6 +21,8 @@
 ||apple.com.edgekey.net^$dnstype=AAAA
 ||apple.map.fastly.net^$dnstype=AAAA
 ||dscapi9.akamai.net^$dnstype=AAAA
+||d.akamaiedge.net^$dnstype=AAAA
+||dscb.akamaiedge.net^$dnstype=AAAA
 # gfw
 ||fast.com^$dnstype=AAAA
 ||nflxvideo.com^$dnstype=AAAA

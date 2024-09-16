@@ -16,11 +16,11 @@
 ||apple-finance.query.yahoo.com^$dnstype=AAAA
 # apple cdn
 ||apple.com.akadns.net^$dnstype=AAAA
-||dsce9.akamaiedge.net^$dnstype=AAAA
-||dscw27.akamai.net^$dnstype=AAAA
 ||apple.com.edgekey.net^$dnstype=AAAA
 ||apple.map.fastly.net^$dnstype=AAAA
+||dscw27.akamai.net^$dnstype=AAAA
 ||dscapi9.akamai.net^$dnstype=AAAA
+||dsce9.akamaiedge.net^$dnstype=AAAA
 ||d.akamaiedge.net^$dnstype=AAAA
 ||dscb.akamaiedge.net^$dnstype=AAAA
 # gfw

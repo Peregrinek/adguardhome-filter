@@ -11,6 +11,7 @@
 ||apple-dns.net^$dnstype=AAAA
 ||mzstatic.com^$dnstype=AAAA
 ||icloud.com^$dnstype=AAAA
+||icloud-content.com^$dnstype=AAAA
 ||aaplimg.com^$dnstype=AAAA
 ||safebrowsing.apple^$dnstype=AAAA
 ||apple-finance.query.yahoo.com^$dnstype=AAAA

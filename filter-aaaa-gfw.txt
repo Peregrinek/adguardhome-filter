@@ -43,6 +43,7 @@
 ||scdn.co^$dnstype=AAAA
 ||spotify.map.fastly.net^$dnstype=AAAA
 ||spotifycdn.map.fastly.net^$dnstype=AAAA
+||audio-ak-spotify-com.akamaized.net^$dnstype=AAAA
 # gfw
 ||fast.com^$dnstype=AAAA
 ||nflxvideo.com^$dnstype=AAAA

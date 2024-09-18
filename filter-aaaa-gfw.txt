@@ -17,6 +17,9 @@
 # apple cdn
 ||apple.com.akadns.net^$dnstype=AAAA
 ||push-apple.com.akadns.net^$dnstype=AAAA
+||lb-apple.com.akadns.net^$dnstype=AAAA
+||itunes-apple.com.akadns.net^$dnstype=AAAA
+||edge-itunes-apple.com.akadns.net^$dnstype=AAAA
 ||apple.com.edgekey.net^$dnstype=AAAA
 ||apple.map.fastly.net^$dnstype=AAAA
 ||dscw27.akamai.net^$dnstype=AAAA

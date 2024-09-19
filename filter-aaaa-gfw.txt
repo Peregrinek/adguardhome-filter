@@ -23,6 +23,7 @@
 ||itunes-apple.com.akadns.net^$dnstype=AAAA
 ||edge-itunes-apple.com.akadns.net^$dnstype=AAAA
 ||idms-apple.com.akadns.net^$dnstype=AAAA
+||origin-apple.com.akadns.net^$dnstype=AAAA
 ||aadg.akadns.net^$dnstype=AAAA
 ||apple.com.edgekey.net^$dnstype=AAAA
 ||apple.map.fastly.net^$dnstype=AAAA

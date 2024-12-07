@@ -4,6 +4,7 @@
 ||edge.microsoft.com^$dnstype=AAAA
 ||delivery.mp.microsoft.com^$dnstype=AAAA
 ||azurewebsites.net^$dnstype=AAAA
+||copilot.microsoft.com^$dnstype=AAAA
 # apple
 ||apple.com^$dnstype=AAAA
 ||apple.com.cn^$dnstype=AAAA

@@ -10,6 +10,7 @@
 ||apple.com.cn^$dnstype=AAAA
 ||apple.cn^$dnstype=AAAA
 ||apple-dns.net^$dnstype=AAAA
+||cdn-apple.com^$dnstype=AAAA
 ||mzstatic.com^$dnstype=AAAA
 ||icloud.com^$dnstype=AAAA
 ||icloud-content.com^$dnstype=AAAA

@@ -1,2 +1,1 @@
-#
-##
+# Block the ipv6 responds of GFW block Domain

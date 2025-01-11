@@ -6,7 +6,6 @@
 ||azurewebsites.net^$dnstype=AAAA
 ||copilot.microsoft.com^$dnstype=AAAA
 # apple
-||apple.com^$dnstype=AAAA
 ||apple.com.cn^$dnstype=AAAA
 ||apple.cn^$dnstype=AAAA
 ||apple-dns.net^$dnstype=AAAA
